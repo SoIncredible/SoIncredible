@@ -1,4 +1,11 @@
-### Hi there 👋
+
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="https://anzhiy.cn/">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=我的肩上是风，风上是闪耀的星辰.;console.log(%22Hello%EF%BC%8Cworld%22)">
+  </a>
+</h1>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/SoIncredible/SoIncredible/assets/github-contribution-grid-snake.svg" /></div>
 说点什么好呢🤔
 <div align="center"><img src="https://raw.githubusercontent.com/SoIncredible/SoIncredible/main/assets/github-contribution-grid-snake.svg" ></div>
 <div align="center">
