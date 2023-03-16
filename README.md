@@ -7,7 +7,6 @@
 </h1>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/SoIncredible/SoIncredible/assets/github-contribution-grid-snake.svg" /></div>
 说点什么好呢🤔
-<div align="center"><img src="https://raw.githubusercontent.com/SoIncredible/SoIncredible/main/assets/github-contribution-grid-snake.svg" ></div>
 <div align="center">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=SoIncredible" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoIncredible&layout=compact&langs_count=8" />
