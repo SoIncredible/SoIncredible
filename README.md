@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=我的肩上是风，风上是闪耀的星辰.;console.log(%22Hello%EF%BC%8Cworld%22)">
   </a>
 </h1>
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/SoIncredible/SoIncredible/assets/github-contribution-grid-snake.svg" /></div>
 说点什么好呢🤔
 <div align="center">
 <span>  </span>
@@ -14,10 +13,6 @@
 </div>
 
 ![](https://raw.githubusercontent.com/SoIncredible/SoIncredible/main/assets/github-contribution-grid-snake.svg)              
-
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=SoIncredible  " />
-</div>
 <!--
 **SoIncredible/SoIncredible** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
