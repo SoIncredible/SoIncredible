@@ -20,7 +20,6 @@
 <span>  </span>
 </div>
 
-![](https://raw.githubusercontent.com/SoIncredible/SoIncredible/main/assets/github-contribution-grid-snake.svg)              
 <!--
 **SoIncredible/SoIncredible** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
