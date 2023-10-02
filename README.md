@@ -7,6 +7,11 @@
 </h1>
 
 
+
+# 🙋Hi～这里是诺倾城
+你可以叫我小诺诺，我是一名游戏开发者，正在致力于游戏开发，目前还在快速成长！
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoIncredible/SoIncredible/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoIncredible/SoIncredible/output/github-contribution-grid-snake.svg">
